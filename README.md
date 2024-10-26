@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoganScripting
+- 👋 Hi, I’m @LoganGamingYT
 - 👀 I’m interested in ... Scripting/Being a YouTuber
 - 🌱 I’m currently learning ... Scripting/Modelling
 - 💞️ I’m looking to collaborate on ... Roblox Studio
